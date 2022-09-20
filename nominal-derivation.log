@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  20 SEP 2022 11:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  20 SEP 2022 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -105,16 +105,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--68
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 69--73
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
-[3]
+
 Underfull \hbox (badness 10000) in paragraph at lines 81--85
 
  []
@@ -136,6 +141,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--100
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--111
 
  []
 
@@ -179,7 +189,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--149
 
  []
 
-
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 151--155
 
  []
@@ -194,7 +204,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 169--173
 
  []
@@ -204,7 +214,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--178
 
  []
 
-[6] (./nominal-derivation.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 184--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--223
+
+ []
+
+[7] (./nominal-derivation.aux) ) 
 Here is how much of TeX's memory you used:
  508 strings out of 478287
  9236 string characters out of 5849289
@@ -218,10 +273,10 @@ ic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on nominal-derivation.pdf (6 pages, 79473 bytes).
+Output written on nominal-derivation.pdf (7 pages, 80723 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
