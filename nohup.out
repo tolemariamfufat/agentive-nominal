@@ -1,0 +1,10 @@
+
+(zathura:238366): Gtk-WARNING **: 18:45:40.677: Theme parsing error: gtk-dark.css:6703:68: Invalid name of pseudo-class
+
+(zathura:238367): Gtk-WARNING **: 18:45:40.677: Theme parsing error: gtk-dark.css:6703:68: Invalid name of pseudo-class
+error: plugin: filetype already registered: application/pdf
+error: plugin: filetype already registered: application/pdf
+error: Could not determine file type.
+
+(zathura:238512): Gtk-WARNING **: 18:46:14.025: Theme parsing error: gtk-dark.css:6703:68: Invalid name of pseudo-class
+error: plugin: filetype already registered: application/pdf
